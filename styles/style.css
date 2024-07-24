@@ -1,0 +1,24 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 0.5px;
+}
+/*arriere des bannieres*/
+/*Début section banniere*/
+.banniere,.a-propos{
+    background-color: #e0f7ff;
+}
+/*Fin section banniere*/
+
+a:hover{
+    opacity: 60%;
+    transition: 0.4s ease-out;
+}
+
+p{
+    font-family: Inter;
+    text-align: justify;
+}
+
+ul{
+    font-weight: 600;
+}
